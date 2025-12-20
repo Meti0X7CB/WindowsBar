@@ -1,8 +1,6 @@
 # WindowsBar
 A simple Windows Bar
 
-## Preview
-
 ![image](https://github.com/user-attachments/assets/315c17df-0552-4efc-bd41-2f8d37d130b1)
 
 ## Minimum Requirements:
