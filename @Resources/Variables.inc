@@ -2,7 +2,7 @@
 Scale  =1.500000
 Color  =222,222,222
 Height =35
-MeterBandsStart=353.750
+MeterBandsStart=173.750
 VDMax=7
 VDX=(60*#Scale#)
 VDY=((#Height#*#Scale#)/2)
