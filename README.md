@@ -1,7 +1,8 @@
 # WindowsBar
 A simple Windows Bar
 
-<img width="3839" height="2159" alt="Screenshot 2026-02-03 185552" src="https://github.com/user-attachments/assets/830450d2-a61a-4487-aa41-c2defb62fa3e" />
+<img width="3839" height="2159" alt="Screenshot 2026-02-11 231127" src="https://github.com/user-attachments/assets/fac8b64b-c72e-454e-bc61-a2caede5eae1" />
+
 
 ## Minimum Requirements:
 - Windows 11
