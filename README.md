@@ -10,7 +10,9 @@
 
 - Native Windows 11 design language
 - Multi-monitor support
-- Audio device + volume integration
+- Integration with the System Media Transport Controls
+- Active audio Visualizer
+- Virtual Desktop management support
 - Hardware monitor support
 - Repositioned Start Menu & Notification Center
 - Accent-aware styling
@@ -187,7 +189,7 @@ For best results:
 - @m417z — Windhawk mods & settings guidance
 - @keifufu — WebNowPlaying plugin and their extensive support
 - @Kurou-kun — Native GPU monitor plugin
-- 
+- @Ciantic — DLL for accessing Windows 11 Virtual Desktop features
 
 ## ⭐ Support the Project
 
