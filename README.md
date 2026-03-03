@@ -180,7 +180,7 @@ After installing Windhawk, install the required mods listed below.
 For best results:
 
 - Taskbar → Automatically hide
-- Taskbar alignment → Center
+- Taskbar alignment → Left
 - Transparency effects → Enabled
 - Animations → Enabled
 
