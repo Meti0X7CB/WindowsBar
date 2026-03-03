@@ -193,4 +193,4 @@ For best results:
 
 ## ⭐ Support the Project
 
-If you like WindowsBar, please consider to staring the repo.
+If you like WindowsBar, please consider staring the repo.
