@@ -2,9 +2,9 @@
 
 > A minimal, macOS / GNOME-inspired top bar for Windows 11, built with Rainmeter — designed to feel native, fluent, and unmistakably Windows.
 
-![WindowsBar Screenshot 2](https://github.com/user-attachments/assets/c12c8ab8-4d36-46d5-a46e-90a154ad2da6)
+![WindowsBar Screenshot 2](https://media.discordapp.net/attachments/1211406685760135179/1482793567675220309/Screenshot_2026-03-15_132858.png?ex=69b83e9f&is=69b6ed1f&hm=8b39244592e42a4945d6bc8045b25ee38ec34a5bdb40288cb35bf77917d4788c&=&format=webp&quality=lossless&width=1634&height=918)
 
-![WindowsBar Screenshot 1](https://github.com/user-attachments/assets/1691d40b-7eb3-495f-a135-923f6f2ba61c)
+![WindowsBar Screenshot 1](https://media.discordapp.net/attachments/1211406685760135179/1482793568757092633/Screenshot_2026-03-15_132412.png?ex=69b83e9f&is=69b6ed1f&hm=e2dccae02569b44a6745f373d7515d89c5e9fae84e553c403cc86165ed173a46&=&format=webp&quality=lossless&width=1634&height=918)
 
 ## 🚀 Features
 
